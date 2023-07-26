@@ -18,3 +18,9 @@ console.log("ho-ho-ho".indexOf('-'));
 
 console.log("ho-ho-ho".split("-"));
 console.log("Brian Mathenge".split(" "));
+
+
+console.log(greet.toUpperCase());
+console.log(greet.toLowerCase());
+console.log("Brian Mathenge".toUpperCase());
+console.log("Brian Mathenge".toLowerCase());
