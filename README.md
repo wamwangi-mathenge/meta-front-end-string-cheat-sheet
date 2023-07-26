@@ -15,6 +15,10 @@ greet.length; // 7
 To read each individual character at a specific index in a string, starting from zero, you can use the charAt() method:
 
 ~~~
+greet.charAt(0); // 'H'
+~~~
+The concat() method joins two strings:  
+~~~
 "Wo".concat("rl").concat("d"); // 'World'
 ~~~
 
