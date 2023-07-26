@@ -10,3 +10,7 @@ console.log(greet.charAt(4));
 
 var greetingPhrase = "Wo".concat("rl").concat("d");
 console.log(greetingPhrase)
+
+console.log("ho-ho-ho".indexOf('h'));
+console.log("ho-ho-ho".indexOf('o'));
+console.log("ho-ho-ho".indexOf('-'));
